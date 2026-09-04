@@ -2,48 +2,48 @@
 
 ### Applied AI Engineer | Generative AI · LLMs · RAG · Agentic AI · AI Platform & Backend Engineering
 
-I build applied AI and software systems spanning **LLM applications, retrieval-augmented generation, governed agent workflows, AI platform engineering, backend systems, evaluation, and full-stack product development**.
+I build applied AI systems that connect **LLM capability with production engineering** — retrieval, agent orchestration, APIs, evaluation, governance, backend architecture, and reliability.
 
-My engineering focus is on making AI systems more **grounded, controllable, testable, reliable, and maintainable** rather than treating AI as a standalone demo.
+My focus is on building AI systems that are **grounded, controllable, testable, maintainable, and production-oriented**, rather than treating AI as a standalone demo.
 
 ---
 
 ## Engineering Focus
 
-- **Generative AI & LLM Engineering** — LLM applications, prompt engineering, structured outputs, model abstraction, local LLMs
-- **Retrieval & Knowledge Systems** — RAG, embeddings, semantic search, information retrieval, grounded generation, citations
-- **Agentic AI** — multi-agent workflows, task routing, human-in-the-loop approvals, controlled execution, governance
-- **AI Platform & Backend Engineering** — Python, FastAPI, REST APIs, PostgreSQL, workflow orchestration, evaluation infrastructure
-- **Responsible & Governed AI** — RBAC, PII protection, policy controls, auditability, human review, evaluation
-- **Full-Stack Engineering** — TypeScript, React, Next.js, Prisma, authentication, APIs, databases, deployment
+- **Generative AI & LLM Engineering** — LLM applications, structured outputs, prompt engineering, model abstraction, local and hosted model integration
+- **Retrieval & Knowledge Systems** — RAG, embeddings, semantic retrieval, hybrid search, grounded generation, citations, retrieval evaluation
+- **Agentic AI** — multi-agent workflows, task routing, human-in-the-loop approvals, controlled execution, policy-aware orchestration
+- **AI Platform Engineering** — model routing, workflow infrastructure, evaluation, governance, observability, operational controls
+- **Backend Engineering** — Python, FastAPI, REST APIs, PostgreSQL, persistence, service architecture, validation, integration
+- **Responsible AI & Governance** — RBAC, PII protection, policy controls, auditability, human review, evaluation
 
 ---
 
-## Featured Projects
+## Featured Engineering
 
 ### [Agentic AI Platform](https://github.com/chaitanyaAI-careers/Agentic-ai-platform)
 
-Governed agentic AI platform showcasing multi-agent workflows, human approvals, controlled execution, model routing, evaluation, auditability, and AI platform engineering.
+Governed agentic AI platform focused on role-based agents, approvals, controlled execution, sandboxing, rollback, auditability, evaluation, model routing, and AI platform engineering.
 
 ### [Pharma AI Platform](https://github.com/chaitanyaAI-careers/Pharma-ai-platform)
 
-Applied AI platform for regulated pharmaceutical document intelligence, retrieval, grounded generation, citations, human review, governance, and evaluation.
-
-### [HR AI Content System](https://github.com/chaitanyaAI-careers/HR-ai-content-system)
-
-Governed enterprise AI retrieval system combining PII protection, RBAC-aware retrieval, semantic search, grounded answers, and retrieval evaluation.
+Applied AI platform for pharmaceutical document intelligence, retrieval, grounded generation, citations, governance, review workflows, and regulated-domain AI engineering.
 
 ### [Job Copilot](https://github.com/chaitanyaAI-careers/Job-copilot)
 
-Full-stack AI-assisted job platform with job ingestion, normalization, matching, resume intelligence, application tracking, authentication, and modern web engineering.
+Product-engineering project focused on job ingestion, normalization, freshness, deduplication, candidate intelligence, application workflows, TypeScript, React, APIs, and testing.
+
+### [HR AI Content System](https://github.com/chaitanyaAI-careers/HR-ai-content-system)
+
+Governed enterprise retrieval project combining PII-aware processing, RBAC-aware access controls, semantic retrieval, grounded answers, and retrieval evaluation.
 
 ### [Medicine Verification Platform](https://github.com/chaitanyaAI-careers/Medicine-verification-platform)
 
-Backend-focused medicine verification platform demonstrating FastAPI, PostgreSQL, SQLAlchemy, REST APIs, schema validation, persistence, testing, and external API integration.
+Backend-focused platform demonstrating FastAPI, SQLAlchemy, PostgreSQL, REST APIs, schema validation, persistence, Docker, and external API integration.
 
 ### [Nudge](https://github.com/chaitanyaAI-careers/Nudge)
 
-Event-driven full-stack system demonstrating scheduled workflows, background jobs, queues, retries, idempotency, notifications, persistent state, and trusted-contact flows.
+Supporting full-stack workflow system centered on authentication, trusted-contact flows, persistence, and reliability-oriented scheduled/background workflow architecture.
 
 ---
 
@@ -51,40 +51,43 @@ Event-driven full-stack system demonstrating scheduled workflows, background job
 
 **AI / LLM**
 
-Python · Generative AI · LLMs · RAG · Embeddings · Semantic Search · Information Retrieval · AI Agents · Ollama · Human-in-the-Loop · LLM Evaluation
+Python · Generative AI · LLMs · RAG · Embeddings · Semantic Retrieval · Hybrid Retrieval · AI Agents · Human-in-the-Loop · LLM Evaluation
 
 **Backend & Data**
 
-FastAPI · Pydantic · REST APIs · PostgreSQL · SQL · SQLAlchemy · Redis · RQ · Data Engineering · ETL
+FastAPI · Pydantic · REST APIs · PostgreSQL · SQL · SQLAlchemy · Data Processing · ETL
 
 **Full Stack**
 
-TypeScript · React · Next.js · Prisma · Authentication · Full-Stack Development
+TypeScript · React · Next.js · Prisma · Authentication · API Integration
 
 **Engineering & Quality**
 
-Docker · GitHub Actions · CI/CD · Software Testing · API Testing · Integration Testing · Software Architecture · AI Governance
+Docker · GitHub Actions · CI/CD · Unit Testing · Integration Testing · API Testing · Software Architecture · AI Governance · Observability
 
 ---
 
 ## Domain Experience
 
-I also bring experience working with **pharmaceutical and regulated software systems**, including quality/compliance workflows, controlled documentation, data integrity, RBAC, auditability, GxP-oriented systems, QMS, CAPA, and regulatory workflows.
+Experience includes **pharmaceutical and regulated software systems**, with emphasis on controlled documentation, quality/compliance workflows, data integrity, RBAC, auditability, human review, and regulated AI workflows.
 
 ---
 
 ## Career Focus
 
-I am interested in opportunities across:
+Primary focus:
 
-**Applied AI Engineering · AI Engineering · Generative AI · LLM Engineering · RAG · Agentic AI · AI Platform Engineering · AI Backend Engineering · AI Software Engineering**
+**Applied AI Engineering · Generative AI · LLM Engineering · RAG · Agentic AI · AI Platform Engineering · AI Backend Engineering**
 
-Open to **remote, hybrid, on-site, and relocation opportunities across the United States**.
+Also aligned with adjacent roles including **AI Software Engineering, AI Applications Engineering, AI Product Engineering, Forward Deployed AI, AI Solutions Engineering, and AI Solutions Architecture**.
+
+**Texas, USA · Open to Remote & Relocation**
 
 ---
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/chaitanyaai-careers)
-- [GitHub](https://github.com/chaitanyaAI-careers)
-- Email: chaitanya.careerpaths@gmail.com
+[Portfolio](https://chaitanya-sai-portfolio.vercel.app) ·
+[LinkedIn](https://www.linkedin.com/in/chaitanyaai-careers/) ·
+[GitHub](https://github.com/chaitanyaAI-careers) ·
+[Email](mailto:chaitanya.careerpaths@gmail.com)
