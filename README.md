@@ -23,47 +23,49 @@ My focus is on building AI systems that are **grounded, controllable, testable, 
 
 ### [Agentic AI Platform](https://github.com/chaitanyaAI-careers/Agentic-ai-platform)
 
-Governed agentic AI platform focused on role-based agents, approvals, controlled execution, sandboxing, rollback, auditability, evaluation, model routing, and AI platform engineering.
+Flagship agentic-AI and AI-platform project. Public evidence demonstrates **role routing, approval and risk controls, controlled-execution boundaries, provider abstraction, deterministic evaluation, automated testing, and CI**. Broader platform engineering includes multi-agent orchestration, governance, auditability, and ongoing MCP integration.
 
 ### [Pharma AI Platform](https://github.com/chaitanyaAI-careers/Pharma-ai-platform)
 
-Applied AI platform for pharmaceutical document intelligence, retrieval, grounded generation, citations, governance, review workflows, and regulated-domain AI engineering.
+Regulated-AI engineering showcase with public evidence for **retrieval-evidence contracts, citation identity, grounded-output contracts, structured summaries, traceability, human-review transitions, testing, and CI**. Broader platform direction covers document intelligence, retrieval, evaluation, and governance.
 
 ### [Job Copilot](https://github.com/chaitanyaAI-careers/Job-copilot)
 
-Product-engineering project focused on job ingestion, normalization, freshness, deduplication, candidate intelligence, application workflows, TypeScript, React, APIs, and testing.
+TypeScript/React product-engineering showcase demonstrating **governed job ingestion, normalization, freshness controls, cross-source deduplication, deterministic candidate matching, testing, and CI**. A broader private product extends the architecture into full-stack career workflows.
 
 ### [HR AI Content System](https://github.com/chaitanyaAI-careers/HR-ai-content-system)
 
-Governed enterprise retrieval project combining PII-aware processing, RBAC-aware access controls, semantic retrieval, grounded answers, and retrieval evaluation.
+Governed enterprise-retrieval project implementing **SentenceTransformer embeddings, NumPy-backed semantic search, deterministic PII redaction, role-conditioned governance, grounded extractive answers, evaluation, Gradio, testing, and CI**. Authorization-aware/RBAC retrieval remains a roadmap direction.
 
 ### [Medicine Verification Platform](https://github.com/chaitanyaAI-careers/Medicine-verification-platform)
 
-Backend-focused platform demonstrating FastAPI, SQLAlchemy, PostgreSQL, REST APIs, schema validation, persistence, Docker, and external API integration.
+Backend/API engineering showcase demonstrating **FastAPI, Pydantic, typed service and repository boundaries, synthetic regulatory-data adapters, structured verification outcomes, health checks, automated testing, and CI**. Database persistence, live regulatory APIs, and containerization remain roadmap work.
 
 ### [Nudge](https://github.com/chaitanyaAI-careers/Nudge)
 
-Supporting full-stack workflow system centered on authentication, trusted-contact flows, persistence, and reliability-oriented scheduled/background workflow architecture.
+Systems-engineering showcase focused on **scheduled-work contracts, queue eligibility, idempotency requirements, explicit workflow states, controlled transitions, delivery outcomes, testing, and CI**. Queue runtimes, durable persistence, retries, workers, and notification adapters remain roadmap directions.
 
 ---
 
 ## Core Technologies
 
-**AI / LLM**
+### Publicly Evidenced Across the Portfolio
 
-Python · Generative AI · LLMs · RAG · Embeddings · Semantic Retrieval · Hybrid Retrieval · AI Agents · Human-in-the-Loop · LLM Evaluation
+**AI / Retrieval**
 
-**Backend & Data**
+Python · Sentence Transformers · Embeddings · Semantic Retrieval · Grounded Outputs · Citations · Human-in-the-Loop · Evaluation
 
-FastAPI · Pydantic · REST APIs · PostgreSQL · SQL · SQLAlchemy · Data Processing · ETL
+**Backend & Product Engineering**
 
-**Full Stack**
-
-TypeScript · React · Next.js · Prisma · Authentication · API Integration
+FastAPI · Pydantic · REST APIs · TypeScript · React · Data Pipelines · Domain Modeling · Service/Repository Architecture
 
 **Engineering & Quality**
 
-Docker · GitHub Actions · CI/CD · Unit Testing · Integration Testing · API Testing · Software Architecture · AI Governance · Observability
+pytest · Vitest · GitHub Actions · CI · Unit Testing · Integration Testing · Type Checking · Governance · Reliability Engineering
+
+### Broader Engineering Experience & Platform Direction
+
+Generative AI · LLM Applications · RAG · Hybrid Retrieval · Agentic AI · Model Routing · PostgreSQL · SQLAlchemy · Next.js · Prisma · Authentication · Docker · Observability
 
 ---
 
