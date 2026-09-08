@@ -1,3 +1,5 @@
+![Chaitanya Sai — Applied AI Engineer](assets/github-profile-header.png)
+
 # Chaitanya Sai
 
 ### Applied AI Engineer | Generative AI · LLMs · RAG · Agentic AI · AI Platform & Backend Engineering
