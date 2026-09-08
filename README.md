@@ -96,7 +96,7 @@ Also aligned with adjacent roles including **AI Software Engineering, AI Applica
 
 ## Connect
 
-[Portfolio](https://chaitanya-sai-portfolio.vercel.app) ·
-[LinkedIn](https://www.linkedin.com/in/chaitanyaai-careers/) ·
-[GitHub](https://github.com/chaitanyaAI-careers) ·
-[Email](mailto:chaitanya.careerpaths@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://chaitanya-sai-portfolio.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/chaitanyaAI-careers)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanyaai-careers/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chaitanya.careerpaths@gmail.com)
