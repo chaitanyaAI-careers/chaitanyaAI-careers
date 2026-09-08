@@ -2,6 +2,11 @@
 
 ### Applied AI Engineer | Generative AI · LLMs · RAG · Agentic AI · AI Platform & Backend Engineering
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://chaitanya-sai-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanyaai-careers/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chaitanya.careerpaths@gmail.com)
+
+
 I build applied AI systems that connect **LLM capability with production engineering** — retrieval, agent orchestration, APIs, evaluation, governance, backend architecture, and reliability.
 
 My focus is on building AI systems that are **grounded, controllable, testable, maintainable, and production-oriented**, rather than treating AI as a standalone demo.
@@ -35,7 +40,7 @@ TypeScript/React product-engineering showcase demonstrating **governed job inges
 
 ### [HR AI Content System](https://github.com/chaitanyaAI-careers/HR-ai-content-system)
 
-Governed enterprise-retrieval project implementing **SentenceTransformer embeddings, NumPy-backed semantic search, deterministic PII redaction, role-conditioned governance, grounded extractive answers, evaluation, Gradio, testing, and CI**. Authorization-aware/RBAC retrieval remains a roadmap direction.
+Governed enterprise-retrieval project implementing **SentenceTransformer embeddings, scikit-learn cosine-similarity retrieval, deterministic PII redaction, role-conditioned governance, grounded extractive answers, evaluation, Gradio, testing, and CI**. Authorization-aware/RBAC retrieval remains a roadmap direction.
 
 ### [Medicine Verification Platform](https://github.com/chaitanyaAI-careers/Medicine-verification-platform)
 
