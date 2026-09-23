@@ -2,7 +2,7 @@
 
 # Chaitanya Sai
 
-### Applied AI Engineer | Generative AI · LLMs · RAG · Agentic AI · AI Platform & Backend Engineering
+### Applied AI Engineer | Generative AI · LLM Applications · RAG · Agentic AI · AI Platform & Backend Engineering
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://chaitanya-sai-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanyaai-careers/)
@@ -18,7 +18,7 @@ My focus is on building AI systems that are **grounded, controllable, testable, 
 ## Engineering Focus
 
 - **Generative AI & LLM Engineering** — LLM applications, structured outputs, prompt engineering, model abstraction, local and hosted model integration
-- **Retrieval & Knowledge Systems** — RAG, embeddings, semantic retrieval, hybrid search, grounded generation, citations, retrieval evaluation
+- **Retrieval & RAG Systems** — RAG, embeddings, semantic retrieval, hybrid search, grounded generation, citations, retrieval evaluation
 - **Agentic AI** — multi-agent workflows, task routing, human-in-the-loop approvals, controlled execution, policy-aware orchestration
 - **AI Platform Engineering** — model routing, workflow infrastructure, evaluation, governance, observability, operational controls
 - **Backend Engineering** — Python, FastAPI, REST APIs, PostgreSQL, persistence, service architecture, validation, integration
@@ -30,7 +30,7 @@ My focus is on building AI systems that are **grounded, controllable, testable, 
 
 ### [Agentic AI Platform](https://github.com/chaitanyaAI-careers/Agentic-ai-platform)
 
-Flagship agentic-AI and AI-platform project. Public evidence demonstrates **role routing, approval and risk controls, controlled-execution boundaries, provider abstraction, deterministic evaluation, automated testing, and CI**. Broader platform engineering includes multi-agent orchestration, governance, auditability, and ongoing MCP integration.
+Flagship agentic-AI and AI-platform project. Public evidence demonstrates **role routing, approval and risk controls, controlled-execution boundaries, provider abstraction, deterministic evaluation, automated testing, and CI**. Broader platform engineering includes multi-agent orchestration, governance, auditability, and MCP discovery and governance foundations.
 
 ### [Pharma AI Platform](https://github.com/chaitanyaAI-careers/Pharma-ai-platform)
 
@@ -70,9 +70,13 @@ FastAPI · Pydantic · REST APIs · TypeScript · React · Data Pipelines · Dom
 
 pytest · Vitest · GitHub Actions · CI · Unit Testing · Integration Testing · Type Checking · Governance · Reliability Engineering
 
-### Broader Engineering Experience & Platform Direction
+### Broader Engineering Experience
 
-Generative AI · LLM Applications · RAG · Hybrid Retrieval · Agentic AI · Model Routing · PostgreSQL · SQLAlchemy · Next.js · Prisma · Authentication · Docker · Observability
+Generative AI · LLM Applications · RAG · Hybrid Retrieval · Agentic AI · Model Routing · PostgreSQL · SQLAlchemy · Next.js · Prisma · Authentication · Docker
+
+### Active Platform Direction
+
+Observability · durable workflow state · broader MCP interoperability
 
 ---
 
