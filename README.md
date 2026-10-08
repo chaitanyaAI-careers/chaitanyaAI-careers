@@ -2,7 +2,7 @@
 
 # Chaitanya Sai
 
-### Applied AI Engineer | Agentic AI · RAG · AI Platform & Backend · Python & FastAPI
+### Applied AI Engineer | Generative AI & LLM Applications · Agentic AI · RAG & Retrieval · AI Platform & Backend · AI Product Engineering
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://chaitanya-sai-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanyaai-careers/)
